@@ -46,7 +46,7 @@ export const Pip: React.FC<{
     <svg width={200} height={260} viewBox="0 0 200 260" style={{ overflow: "visible" }}>
       <g transform={`rotate(${flip ? -cfg.tilt : cfg.tilt} 100 190)`}>
         {/* legs (thin, drawn behind body) */}
-        <g stroke={HOODIE_DARK} strokeWidth="12" strokeLinecap="round">
+        <g stroke={HOODIE} strokeWidth="12" strokeLinecap="round">
           <polyline points={limb([84, 214], cfg.legs[0])} fill="none" />
           <polyline points={limb([116, 214], cfg.legs[1])} fill="none" />
         </g>
@@ -104,12 +104,9 @@ export const Pip: React.FC<{
             {/* back of head + hood */}
             <circle cx="100" cy="82" r="44" fill={SKIN} />
             <path d="M 100 44 q 20 -8 24 6" stroke="#d9c19c" strokeWidth="6" fill="none" strokeLinecap="round" />
-            <path
-              d={`M 62 112 Q 100 ${126 + flap} 138 112 Q 100 106 62 112 Z`}
-              fill={HOODIE_DARK}
-            />
-            {/* hood drawn over the head crown */}
-            <path d="M 64 112 Q 100 66 136 112" fill={HOODIE} opacity="0.96" />
+            {/* hood back: dome over the crown */}
+            <path d="M 62 112 Q 100 -12 138 112" fill={HOODIE} />
+            <path d={`M 64 112 Q 100 ${118 + flap * 0.4} 136 112`} stroke={HOODIE_DARK} strokeWidth="8" fill="none" strokeLinecap="round" />
           </>
         )}
       </g>

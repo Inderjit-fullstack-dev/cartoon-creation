@@ -40,7 +40,7 @@ export const Scene3TheWind: React.FC<{ scene: SceneSpec }> = ({ scene }) => {
   });
 
   return (
-    <AbsoluteFill style={{ transform: `translate(${wobX}px, ${wobY}px)` }}>
+    <AbsoluteFill style={{ transform: `translate(${wobX}px, ${wobY}px) scale(1.03)` }}>
       {/* storm sky */}
       <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, #233b5e 0%, #4a6fa5 46%, #77917f 100%)" }} />
       {/* ground strip */}
@@ -66,7 +66,7 @@ export const Scene3TheWind: React.FC<{ scene: SceneSpec }> = ({ scene }) => {
         style={{
           position: "absolute",
           bottom: 200,
-          right: 430,
+          right: 360,
           transform: `rotate(${-14 * gust}deg)`,
           transformOrigin: "50% 100%",
         }}

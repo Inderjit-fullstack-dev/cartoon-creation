@@ -40,7 +40,7 @@ export const Scene2TheStop: React.FC<{ scene: SceneSpec }> = ({ scene }) => {
   const tilt = interpolate(frame, [0, 40], [0, -4], { extrapolateRight: "clamp" });
 
   return (
-    <AbsoluteFill style={{ transform: `translate(${shakeX}px, ${shakeY}px) rotate(${tilt * 0.3}deg)`, transformOrigin: "center" }}>
+    <AbsoluteFill style={{ transform: `translate(${shakeX}px, ${shakeY}px) rotate(${tilt * 0.3}deg) scale(1.1)`, transformOrigin: "center" }}>
       <FieldBackdrop skyTop="#6fb1e8" skyBottom="#cfe4f7" grassTop="#71c063" grassBottom="#468a3e" />
       <div style={{ position: "absolute", inset: 0, background: `rgba(30,40,70,${dim})` }} />
 
