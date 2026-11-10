@@ -32,7 +32,7 @@ export const Scene6TheLongestSunset: React.FC<{ scene: SceneSpec }> = ({ scene }
         style={{
           position: "absolute",
           inset: 0,
-          bottom: `${(horizonY / 1920) * 100}%`,
+          bottom: `${100 - (horizonY / 1920) * 100}%`,
           background: `linear-gradient(180deg,
             rgba(${24 - deepen * 10}, ${12 - deepen * 5}, ${52 - deepen * 16}, 1) 0%,
             rgba(${70 - deepen * 24}, ${26 - deepen * 10}, ${86 - deepen * 26}, 1) 34%,
@@ -48,15 +48,15 @@ export const Scene6TheLongestSunset: React.FC<{ scene: SceneSpec }> = ({ scene }
       <div
         style={{
           position: "absolute",
-          top: horizonY - 150 + sink * 120,
+          top: horizonY - 178 + sink * 120,
           left: 410,
           opacity: rayPulse,
         }}
       >
         <svg width={260} height={260} viewBox="0 0 200 200" style={{ overflow: "visible" }}>
-          <circle cx="100" cy="100" r="130" fill="rgba(255,208,120,0.16)" />
-          <circle cx="100" cy="100" r="96" fill="rgba(255,208,120,0.28)" />
-          <circle cx="100" cy="100" r="62" fill="#ffe2a8" />
+          <circle cx="100" cy="100" r="130" fill="rgba(255,208,120,0.2)" />
+          <circle cx="100" cy="100" r="96" fill="rgba(255,214,140,0.38)" />
+          <circle cx="100" cy="100" r="62" fill="#fff2c2" />
           {Array.from({ length: 10 }).map((_, i) => {
             const a = (i / 10) * Math.PI * 2 + 0.3 + frame * 0.008;
             const x1 = 100 + Math.cos(a) * 70;
@@ -76,7 +76,7 @@ export const Scene6TheLongestSunset: React.FC<{ scene: SceneSpec }> = ({ scene }
           right: 0,
           top: horizonY,
           bottom: 0,
-          background: "linear-gradient(180deg, rgba(255,172,98,0.5) 0%, rgba(122,52,92,0.35) 26%, rgba(23,16,43,0) 60%)",
+          background: "linear-gradient(180deg, rgba(255,140,80,0.42) 0%, rgba(190,90,110,0.25) 30%, rgba(122,52,92,0.12) 60%, rgba(23,16,43,0) 100%)",
         }}
       />
       <div style={{ position: "absolute", left: 0, right: 0, top: horizonY, bottom: 0, background: "linear-gradient(180deg, rgba(74,32,74,0.35) 0%, #170f2b 55%)" }} />
@@ -84,17 +84,17 @@ export const Scene6TheLongestSunset: React.FC<{ scene: SceneSpec }> = ({ scene }
       {/* birds coasting up-right */}
       <Birds count={2} />
 
-      {/* Pip: rear view, sitting on the cliff edge, legs dangling */}
+      {/* Pip after the cliff stack so his dangling legs draw over the cliff face */}
       <div
         style={{
           position: "absolute",
-          bottom: 210 + pipBreath,
-          left: 320,
+          bottom: 150 + pipBreath,
+          left: 400,
           transform: `scale(1.18)`,
           transformOrigin: "bottom center",
         }}
       >
-        <Pip pose="rear" window={0.25} />
+        <Pip pose="rear" window={0.2} />
       </div>
       {/* cliff edge */}
       <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, height: 260, background: "linear-gradient(180deg, #241233, #120a20)" }} />
