@@ -1,0 +1,1021 @@
+{
+ "fps": 30,
+ "totalFrames": 2419,
+ "scenes": [
+  {
+   "id": "01",
+   "audio": "audio/narration/scene-01.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 87,
+   "durationFrames": 126,
+   "words": [
+    {
+     "w": "What",
+     "start": 15,
+     "end": 23
+    },
+    {
+     "w": "if",
+     "start": 23,
+     "end": 27
+    },
+    {
+     "w": "a",
+     "start": 27,
+     "end": 29
+    },
+    {
+     "w": "giant",
+     "start": 29,
+     "end": 38
+    },
+    {
+     "w": "asteroid",
+     "start": 38,
+     "end": 54
+    },
+    {
+     "w": "slammed",
+     "start": 54,
+     "end": 67
+    },
+    {
+     "w": "into",
+     "start": 67,
+     "end": 75
+    },
+    {
+     "w": "the",
+     "start": 75,
+     "end": 81
+    },
+    {
+     "w": "Moon?",
+     "start": 81,
+     "end": 102
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "audio": "audio/narration/scene-02.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 286,
+   "durationFrames": 325,
+   "words": [
+    {
+     "w": "Earth",
+     "start": 15,
+     "end": 25
+    },
+    {
+     "w": "has",
+     "start": 25,
+     "end": 31
+    },
+    {
+     "w": "an",
+     "start": 31,
+     "end": 35
+    },
+    {
+     "w": "atmosphere",
+     "start": 35,
+     "end": 55
+    },
+    {
+     "w": "that",
+     "start": 55,
+     "end": 63
+    },
+    {
+     "w": "burns",
+     "start": 63,
+     "end": 73
+    },
+    {
+     "w": "rocks",
+     "start": 73,
+     "end": 83
+    },
+    {
+     "w": "up.",
+     "start": 83,
+     "end": 102
+    },
+    {
+     "w": "The",
+     "start": 102,
+     "end": 108
+    },
+    {
+     "w": "Moon",
+     "start": 108,
+     "end": 116
+    },
+    {
+     "w": "has",
+     "start": 116,
+     "end": 122
+    },
+    {
+     "w": "nothing.",
+     "start": 122,
+     "end": 150
+    },
+    {
+     "w": "So",
+     "start": 150,
+     "end": 154
+    },
+    {
+     "w": "this",
+     "start": 154,
+     "end": 162
+    },
+    {
+     "w": "one",
+     "start": 162,
+     "end": 168
+    },
+    {
+     "w": "arrives",
+     "start": 168,
+     "end": 182
+    },
+    {
+     "w": "at",
+     "start": 182,
+     "end": 186
+    },
+    {
+     "w": "full",
+     "start": 186,
+     "end": 194
+    },
+    {
+     "w": "speed:",
+     "start": 194,
+     "end": 218
+    },
+    {
+     "w": "tens",
+     "start": 218,
+     "end": 226
+    },
+    {
+     "w": "of",
+     "start": 226,
+     "end": 231
+    },
+    {
+     "w": "thousands",
+     "start": 231,
+     "end": 249
+    },
+    {
+     "w": "of",
+     "start": 249,
+     "end": 253
+    },
+    {
+     "w": "kilometres",
+     "start": 253,
+     "end": 273
+    },
+    {
+     "w": "per",
+     "start": 273,
+     "end": 279
+    },
+    {
+     "w": "hour.",
+     "start": 279,
+     "end": 301
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "audio": "audio/narration/scene-03.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 123,
+   "durationFrames": 162,
+   "words": [
+    {
+     "w": "Imagine",
+     "start": 15,
+     "end": 28
+    },
+    {
+     "w": "a",
+     "start": 28,
+     "end": 30
+    },
+    {
+     "w": "rock",
+     "start": 30,
+     "end": 37
+    },
+    {
+     "w": "one",
+     "start": 37,
+     "end": 43
+    },
+    {
+     "w": "kilometre",
+     "start": 43,
+     "end": 60
+    },
+    {
+     "w": "wide.",
+     "start": 60,
+     "end": 80
+    },
+    {
+     "w": "In",
+     "start": 80,
+     "end": 84
+    },
+    {
+     "w": "an",
+     "start": 84,
+     "end": 88
+    },
+    {
+     "w": "instant,",
+     "start": 88,
+     "end": 114
+    },
+    {
+     "w": "it",
+     "start": 114,
+     "end": 118
+    },
+    {
+     "w": "hits.",
+     "start": 118,
+     "end": 138
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "audio": "audio/narration/scene-04.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 176,
+   "durationFrames": 215,
+   "words": [
+    {
+     "w": "It",
+     "start": 15,
+     "end": 19
+    },
+    {
+     "w": "carves",
+     "start": 19,
+     "end": 32
+    },
+    {
+     "w": "a",
+     "start": 32,
+     "end": 34
+    },
+    {
+     "w": "crater",
+     "start": 34,
+     "end": 46
+    },
+    {
+     "w": "over",
+     "start": 46,
+     "end": 54
+    },
+    {
+     "w": "ten",
+     "start": 54,
+     "end": 61
+    },
+    {
+     "w": "kilometres",
+     "start": 61,
+     "end": 81
+    },
+    {
+     "w": "across,",
+     "start": 81,
+     "end": 108
+    },
+    {
+     "w": "and",
+     "start": 108,
+     "end": 114
+    },
+    {
+     "w": "the",
+     "start": 114,
+     "end": 121
+    },
+    {
+     "w": "rock",
+     "start": 121,
+     "end": 129
+    },
+    {
+     "w": "itself",
+     "start": 129,
+     "end": 141
+    },
+    {
+     "w": "melts",
+     "start": 141,
+     "end": 152
+    },
+    {
+     "w": "and",
+     "start": 152,
+     "end": 158
+    },
+    {
+     "w": "vaporizes.",
+     "start": 158,
+     "end": 191
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "audio": "audio/narration/scene-05.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 281,
+   "durationFrames": 320,
+   "words": [
+    {
+     "w": "But",
+     "start": 15,
+     "end": 22
+    },
+    {
+     "w": "here's",
+     "start": 22,
+     "end": 35
+    },
+    {
+     "w": "the",
+     "start": 35,
+     "end": 41
+    },
+    {
+     "w": "eerie",
+     "start": 41,
+     "end": 52
+    },
+    {
+     "w": "part:",
+     "start": 52,
+     "end": 76
+    },
+    {
+     "w": "no",
+     "start": 76,
+     "end": 80
+    },
+    {
+     "w": "sound.",
+     "start": 80,
+     "end": 106
+    },
+    {
+     "w": "No",
+     "start": 106,
+     "end": 111
+    },
+    {
+     "w": "air",
+     "start": 111,
+     "end": 117
+    },
+    {
+     "w": "means",
+     "start": 117,
+     "end": 128
+    },
+    {
+     "w": "no",
+     "start": 128,
+     "end": 133
+    },
+    {
+     "w": "boom,",
+     "start": 133,
+     "end": 157
+    },
+    {
+     "w": "no",
+     "start": 157,
+     "end": 161
+    },
+    {
+     "w": "mushroom",
+     "start": 161,
+     "end": 178
+    },
+    {
+     "w": "cloud.",
+     "start": 178,
+     "end": 205
+    },
+    {
+     "w": "Just",
+     "start": 205,
+     "end": 213
+    },
+    {
+     "w": "silent",
+     "start": 213,
+     "end": 226
+    },
+    {
+     "w": "debris",
+     "start": 226,
+     "end": 239
+    },
+    {
+     "w": "flying",
+     "start": 239,
+     "end": 252
+    },
+    {
+     "w": "in",
+     "start": 252,
+     "end": 257
+    },
+    {
+     "w": "perfect",
+     "start": 257,
+     "end": 272
+    },
+    {
+     "w": "arcs.",
+     "start": 272,
+     "end": 296
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "audio": "audio/narration/scene-06.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 265,
+   "durationFrames": 304,
+   "words": [
+    {
+     "w": "From",
+     "start": 15,
+     "end": 22
+    },
+    {
+     "w": "Earth,",
+     "start": 22,
+     "end": 44
+    },
+    {
+     "w": "you'd",
+     "start": 44,
+     "end": 54
+    },
+    {
+     "w": "see",
+     "start": 54,
+     "end": 59
+    },
+    {
+     "w": "a",
+     "start": 59,
+     "end": 61
+    },
+    {
+     "w": "flash.",
+     "start": 61,
+     "end": 83
+    },
+    {
+     "w": "We've",
+     "start": 83,
+     "end": 92
+    },
+    {
+     "w": "actually",
+     "start": 92,
+     "end": 107
+    },
+    {
+     "w": "seen",
+     "start": 107,
+     "end": 114
+    },
+    {
+     "w": "this:",
+     "start": 114,
+     "end": 135
+    },
+    {
+     "w": "in",
+     "start": 135,
+     "end": 138
+    },
+    {
+     "w": "2013,",
+     "start": 138,
+     "end": 159
+    },
+    {
+     "w": "a",
+     "start": 159,
+     "end": 160
+    },
+    {
+     "w": "small",
+     "start": 160,
+     "end": 170
+    },
+    {
+     "w": "meteoroid",
+     "start": 170,
+     "end": 186
+    },
+    {
+     "w": "lit",
+     "start": 186,
+     "end": 192
+    },
+    {
+     "w": "up",
+     "start": 192,
+     "end": 195
+    },
+    {
+     "w": "the",
+     "start": 195,
+     "end": 201
+    },
+    {
+     "w": "Moon",
+     "start": 201,
+     "end": 208
+    },
+    {
+     "w": "so",
+     "start": 208,
+     "end": 212
+    },
+    {
+     "w": "brightly",
+     "start": 212,
+     "end": 227
+    },
+    {
+     "w": "that",
+     "start": 227,
+     "end": 234
+    },
+    {
+     "w": "telescopes",
+     "start": 234,
+     "end": 252
+    },
+    {
+     "w": "caught",
+     "start": 252,
+     "end": 263
+    },
+    {
+     "w": "it.",
+     "start": 263,
+     "end": 280
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "audio": "audio/narration/scene-07.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 184,
+   "durationFrames": 223,
+   "words": [
+    {
+     "w": "Some",
+     "start": 15,
+     "end": 22
+    },
+    {
+     "w": "debris",
+     "start": 22,
+     "end": 33
+    },
+    {
+     "w": "could",
+     "start": 33,
+     "end": 42
+    },
+    {
+     "w": "even",
+     "start": 42,
+     "end": 49
+    },
+    {
+     "w": "reach",
+     "start": 49,
+     "end": 57
+    },
+    {
+     "w": "us.",
+     "start": 57,
+     "end": 73
+    },
+    {
+     "w": "In",
+     "start": 73,
+     "end": 77
+    },
+    {
+     "w": "fact,",
+     "start": 77,
+     "end": 96
+    },
+    {
+     "w": "pieces",
+     "start": 96,
+     "end": 107
+    },
+    {
+     "w": "of",
+     "start": 107,
+     "end": 111
+    },
+    {
+     "w": "the",
+     "start": 111,
+     "end": 116
+    },
+    {
+     "w": "Moon",
+     "start": 116,
+     "end": 123
+    },
+    {
+     "w": "have",
+     "start": 123,
+     "end": 130
+    },
+    {
+     "w": "already",
+     "start": 130,
+     "end": 142
+    },
+    {
+     "w": "landed",
+     "start": 142,
+     "end": 153
+    },
+    {
+     "w": "on",
+     "start": 153,
+     "end": 157
+    },
+    {
+     "w": "Earth",
+     "start": 157,
+     "end": 165
+    },
+    {
+     "w": "as",
+     "start": 165,
+     "end": 169
+    },
+    {
+     "w": "meteorites.",
+     "start": 169,
+     "end": 199
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "audio": "audio/narration/scene-08.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 173,
+   "durationFrames": 212,
+   "words": [
+    {
+     "w": "Would",
+     "start": 15,
+     "end": 24
+    },
+    {
+     "w": "it",
+     "start": 24,
+     "end": 28
+    },
+    {
+     "w": "knock",
+     "start": 28,
+     "end": 37
+    },
+    {
+     "w": "the",
+     "start": 37,
+     "end": 42
+    },
+    {
+     "w": "Moon",
+     "start": 42,
+     "end": 49
+    },
+    {
+     "w": "off",
+     "start": 49,
+     "end": 55
+    },
+    {
+     "w": "course,",
+     "start": 55,
+     "end": 78
+    },
+    {
+     "w": "or",
+     "start": 78,
+     "end": 82
+    },
+    {
+     "w": "change",
+     "start": 82,
+     "end": 92
+    },
+    {
+     "w": "our",
+     "start": 92,
+     "end": 98
+    },
+    {
+     "w": "tides?",
+     "start": 98,
+     "end": 120
+    },
+    {
+     "w": "No.",
+     "start": 120,
+     "end": 136
+    },
+    {
+     "w": "The",
+     "start": 136,
+     "end": 141
+    },
+    {
+     "w": "Moon",
+     "start": 141,
+     "end": 148
+    },
+    {
+     "w": "is",
+     "start": 148,
+     "end": 152
+    },
+    {
+     "w": "far",
+     "start": 152,
+     "end": 157
+    },
+    {
+     "w": "too",
+     "start": 157,
+     "end": 163
+    },
+    {
+     "w": "massive.",
+     "start": 163,
+     "end": 188
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "audio": "audio/narration/scene-09.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 290,
+   "durationFrames": 329,
+   "words": [
+    {
+     "w": "Ancient",
+     "start": 15,
+     "end": 31
+    },
+    {
+     "w": "impacts",
+     "start": 31,
+     "end": 46
+    },
+    {
+     "w": "were",
+     "start": 46,
+     "end": 55
+    },
+    {
+     "w": "far",
+     "start": 55,
+     "end": 62
+    },
+    {
+     "w": "bigger.",
+     "start": 62,
+     "end": 91
+    },
+    {
+     "w": "One",
+     "start": 91,
+     "end": 98
+    },
+    {
+     "w": "carved",
+     "start": 98,
+     "end": 111
+    },
+    {
+     "w": "a",
+     "start": 111,
+     "end": 113
+    },
+    {
+     "w": "basin",
+     "start": 113,
+     "end": 124
+    },
+    {
+     "w": "2,500",
+     "start": 124,
+     "end": 135
+    },
+    {
+     "w": "kilometres",
+     "start": 135,
+     "end": 158
+    },
+    {
+     "w": "wide,",
+     "start": 158,
+     "end": 182
+    },
+    {
+     "w": "and",
+     "start": 182,
+     "end": 189
+    },
+    {
+     "w": "the",
+     "start": 189,
+     "end": 196
+    },
+    {
+     "w": "Moon",
+     "start": 196,
+     "end": 205
+    },
+    {
+     "w": "itself",
+     "start": 205,
+     "end": 218
+    },
+    {
+     "w": "was",
+     "start": 218,
+     "end": 225
+    },
+    {
+     "w": "likely",
+     "start": 225,
+     "end": 238
+    },
+    {
+     "w": "born",
+     "start": 238,
+     "end": 247
+    },
+    {
+     "w": "from",
+     "start": 247,
+     "end": 256
+    },
+    {
+     "w": "a",
+     "start": 256,
+     "end": 258
+    },
+    {
+     "w": "giant",
+     "start": 258,
+     "end": 269
+    },
+    {
+     "w": "collision.",
+     "start": 269,
+     "end": 305
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "audio": "audio/narration/scene-10.mp3",
+   "narrationStart": 15,
+   "narrationFrames": 164,
+   "durationFrames": 203,
+   "words": [
+    {
+     "w": "So",
+     "start": 15,
+     "end": 18
+    },
+    {
+     "w": "next",
+     "start": 18,
+     "end": 25
+    },
+    {
+     "w": "time",
+     "start": 25,
+     "end": 31
+    },
+    {
+     "w": "you",
+     "start": 31,
+     "end": 36
+    },
+    {
+     "w": "look",
+     "start": 36,
+     "end": 42
+    },
+    {
+     "w": "up,",
+     "start": 42,
+     "end": 57
+    },
+    {
+     "w": "remember:",
+     "start": 57,
+     "end": 81
+    },
+    {
+     "w": "that's",
+     "start": 81,
+     "end": 91
+    },
+    {
+     "w": "a",
+     "start": 91,
+     "end": 92
+    },
+    {
+     "w": "world",
+     "start": 92,
+     "end": 100
+    },
+    {
+     "w": "covered",
+     "start": 100,
+     "end": 111
+    },
+    {
+     "w": "in",
+     "start": 111,
+     "end": 115
+    },
+    {
+     "w": "scars.",
+     "start": 115,
+     "end": 134
+    },
+    {
+     "w": "Follow",
+     "start": 134,
+     "end": 144
+    },
+    {
+     "w": "for",
+     "start": 144,
+     "end": 148
+    },
+    {
+     "w": "more",
+     "start": 148,
+     "end": 155
+    },
+    {
+     "w": "what-ifs.",
+     "start": 155,
+     "end": 179
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "what-if-moon-asteroid",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts --public-dir public",
+    "timing": "node scripts/build-timing.mjs",
+    "narration": "node scripts/gen-narration.mjs all",
+    "still": "remotion still src/index.ts MoonAsteroid --public-dir public",
+    "render": "remotion render src/index.ts MoonAsteroid output/final.mp4 --public-dir public --codec h264 --audio-codec aac --crf 18",
+    "lint": "tsc -p ."
+  }
+}
